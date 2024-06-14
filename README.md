@@ -31,4 +31,4 @@ Exits the script.
 --help
 Shows available commands and their descriptions.
 Usage:
-Run the script in PowerShell by executing .\wsl_script.ps1.
+Run the script with powershell.
